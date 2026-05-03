@@ -31,3 +31,6 @@ if __name__ == "__main__":
     logger.info("Pipeline started")
     logger.warning("Warning message")
     logger.error("Error occurred")
+
+
+print("PR test change")
